@@ -1,0 +1,18 @@
+{
+  "name": "vrc.cassidyco.vrc-adv-tools",
+  "displayName": "VRChat Adventure Tools",
+  "version": "0.0.0",
+  "unity": "2022.3",
+  "description": "Feature-rich infrastructure for world-hop event management and exploration.",
+  "vrchatVersion": "2022.1.1",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+    "com.vrcfury.vrcfury": ">=1.1252.0 <2.0.0",
+    "dev.vrlabs.world-constraint": ">=1.2.4 <2.0.0"
+  },
+  "author": {
+    "name": "Cassidy Prather",
+    "email": "pratherea@gmail.com",
+    "url": "https://bsky.app/profile/cassidyco.bsky.social"
+  }
+}
